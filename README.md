@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Sazzad Bin Ashique, a passionate self-taught Web Application Developer.
 
-- 🔭 I’m currently working on my project [SBA-Ecommerce](https://github.com/sba-ecommerce)
+- 🔭 I’m currently working on my project [SBA-Ecommerce](https://github.com/sazzadbinashique/sba-ecommerce)
 - 🌱 I’m currently learning Vue.js
 - 💬 Ask me about anything [here](https://github.com/sazzadbinashique/sazzadbinashique/issues)
 
