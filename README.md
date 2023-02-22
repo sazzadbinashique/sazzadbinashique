@@ -37,8 +37,8 @@ Hi, I'm Sazzad Bin Ashique, a passionate self-taught Web Application Developer.
 <code><img height="20" src="https://laravel.com/img/favicon/favicon.ico"></code>
 <code><img height="20" src="https://www.php.net/favicon.ico"></code>
 <code><img height="20" src="https://vuejs.org/images/logo.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
+<code><img height="20" src="https://tailwindcss.com/favicons/apple-touch-icon.png"></code> 
+<code><img height="20" src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png"></code> 
 
 
 ![Sazzad's github stats](https://github-readme-stats.vercel.app/api?username=sazzadbinashique&count_private=true)
