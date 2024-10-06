@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there I'm Sazzad Bin Ashique👋
 
-<a href="https://facebook.com/sazzadbinashique">
+<a href="https://facebook.com/sazzadbinashique"  target="_blank">
   <img align="left" alt="Sazzad Bin Ashique | Facebook" width="21px" style="height: 25px;" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sazzadbinashique/">
-  <img align="left" alt="Sazzad Bin Ashique| Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+<a href="https://www.linkedin.com/in/sazzadbinashique/" target="_blank">
+  <img align="left" alt="Sazzad Bin Ashique | LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <br />
 <br />
